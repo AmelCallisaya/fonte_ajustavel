@@ -15,9 +15,9 @@ Higor
 ![Layout EasyEDA](https://github.com/Higaozo/fonte_ajustavel/blob/main/Layout.PNG)
 |Fonte: Próprio autor|
 
-|3D|
+|Vista 3D|
 |:---------:|
-![3D EasyEDA](https://github.com/CAROLPEREIRA2004/fonte_ajustavel/blob/main/3D.PNG)
+![3D EasyEDA](https://github.com/Higaozo/fonte_ajustavel/blob/main/Vista%203D.PNG)
 |Fonte: Próprio autor|
 
 
