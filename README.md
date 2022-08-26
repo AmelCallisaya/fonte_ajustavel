@@ -12,7 +12,7 @@ Higor
 
 |Layout|
 |:---------:|
-![Layout EasyEDA](https://github.com/CAROLPEREIRA2004/fonte_ajustavel/blob/main/Layout.PNG)
+![Layout EasyEDA](https://github.com/Higaozo/fonte_ajustavel/blob/main/Layout.PNG)
 |Fonte: Próprio autor|
 
 |3D|
