@@ -15,7 +15,7 @@ Higor Macena
 ![Layout EasyEDA](https://github.com/Higaozo/fonte_ajustavel/blob/main/Layout.PNG)
 |Fonte: Próprio autor|
 
-|Figura 3: Vista 3D (EasyEDA|
+|Figura 3: Vista 3D (EasyEDA)|
 |:---------:|
 ![3D EasyEDA](https://github.com/Higaozo/fonte_ajustavel/blob/main/Vista%203D.PNG)
 |Fonte: Próprio autor|
